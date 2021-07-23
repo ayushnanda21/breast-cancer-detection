@@ -27,5 +27,9 @@ To get more accuracy, we trained all supervised classification algorithms but yo
 
 Fork the Repository and clone it in ur PC!
 
+# Working
+
+<img src="working.png" alt="."/>
+
 
 
